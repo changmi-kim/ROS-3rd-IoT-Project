@@ -33,7 +33,7 @@ https://docs.google.com/presentation/d/1AWp36OybdQL008NTzZpEw1TwQ33S21eg/edit?us
 
 ## 🥇 01. 위험 지역 접근 감지 스마트 세이프티 센서
 ### 01-1. HW
-![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/ccfea0ac-1966-4220-802d-31033bc0af23)
+![safety_sensor](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/75c581c6-602b-4266-8d9f-52f22820ff70)
 
 ### 01-2. DB 업데이트
 - 총 7가지의 데이터 관제 PC로 전송
