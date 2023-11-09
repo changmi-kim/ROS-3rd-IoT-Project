@@ -17,7 +17,7 @@
 
 ## 🖥️ 하드웨어 및 소프트웨어 구성도
 ### 전체 구성도
-![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/141194237/1e51296e-f06a-4cba-89f9-158a79708cc2)
+![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/141194237/93cd6a3c-58ca-494d-a84e-98206c9595c6)
 - 세부 구성도 링크: [https://drive.google.com/file/d/1gtUsnsUkhlHpAqQX9k2jctidUJYdlS1m/view?usp=sharing](https://drive.google.com/file/d/1gtUsnsUkhlHpAqQX9k2jctidUJYdlS1m/view?usp=sharing)
 
 ### 📊 안전 관리 DB 시스템 순서도
