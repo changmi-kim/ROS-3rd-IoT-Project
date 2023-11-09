@@ -27,7 +27,7 @@ draw.io 링크: [https://drive.google.com/file/d/1gtUsnsUkhlHpAqQX9k2jctidUJYdlS
 ![image](https://github.com/changmi-kim/changmi-kim.github.io/assets/141194237/d29ee2cd-eb3c-45d1-9cda-bb8a99d65fa6)
 
 ### 🥇 관제 PC PyQt UI 구성
-![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/d6cdd2d7-a69d-44de-a100-2c2726581b0c)
+![pyqt](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/8bfeb7ff-6a1a-4104-be1b-21d969b85e9a)
 
 ## ✈️ PPT 자료
 https://docs.google.com/presentation/d/1AWp36OybdQL008NTzZpEw1TwQ33S21eg/edit?usp=sharing&ouid=102784698114875004183&rtpof=true&sd=true
